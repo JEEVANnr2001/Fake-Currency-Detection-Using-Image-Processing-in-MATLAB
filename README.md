@@ -4,19 +4,19 @@
 
 Contents
 
-Abstract……………………………………………….2
+Abstract
 
-Introduction……………………………………………..3
+Introduction
 
-Problem solving statements &objective……4
+Problem solving statements &objective
 
-Methodology…………………………………………..3
+Methodology
 
-Experimental Results & Analysis………………6
+Experimental Results & Analysis
 
-Conclusion……………………………………………….9
+Conclusion
 
-References……………………………………………….10
+References
  
 Abstract
 
